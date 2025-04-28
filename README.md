@@ -87,7 +87,7 @@ Cmd + U
 
 Alternatively, use Xcode’s **Test Navigator** to run specific test cases.
 
-- **Unit Tests**: `WalmartCodingChallengeTests`
-- **UI Tests**: `WalmartCodingChallengeUITests`
+- **Unit Tests**: `Countries_listTests`
+- **UI Tests**: `Countries_listTests`
 
 ---
