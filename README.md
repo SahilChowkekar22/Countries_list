@@ -61,7 +61,7 @@ The app is built using the **MVVM (Model-View-ViewModel)** architecture pattern:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Countries_list.git
+   git clone https://github.com/SahilChowkekar22/Countries_list.git
    ```
 
 2. Open the project in Xcode:
