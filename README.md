@@ -1,7 +1,7 @@
 
-# Walmart Coding Challenge – iOS App
+# Country List – iOS App
 
-This is an iOS application which embraces modern iOS development practices and leverages a clean architecture to ensure a scalable, maintainable, and testable codebase.
+This is an iOS application that embraces modern iOS development practices and leverages a clean architecture to ensure a scalable, maintainable, and testable codebase.
 
 ---
 
